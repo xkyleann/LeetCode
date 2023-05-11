@@ -1,5 +1,5 @@
 # 595.Big Countries
-* **Topic** --> SQL Schema 
+* **Topic** --> **_SQL Schema_** 
 ---
 ## Task Introduction 
 * Name is the primary ey column for the below table. Each row of this table gives information about the name of a country, the continent to which it blongs, its area, the population, and its GDP value. 
